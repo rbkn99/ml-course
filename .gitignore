@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+.ipynb_checkpoints/
+.directory
+cmake-build-debug/
+build/
+__pycache__/
+ml-env/
+lab/input/
