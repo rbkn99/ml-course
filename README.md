@@ -1,4 +1,4 @@
-# ITMO ML course (autumn 2020 - spring 2021)
+# ITMO ML course (autumn 2020)
 
 ### Practice tasks
 - [kNN](lab/notebooks/knn.ipynb)
